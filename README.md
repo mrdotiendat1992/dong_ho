@@ -2,6 +2,6 @@
 Đồng hồ đơn giản viết bằng Python
 
 # Chạy script
-``sh
+```sh
     python clock.py
-``
+```
